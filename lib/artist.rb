@@ -1,0 +1,13 @@
+require_relative 'song.rb'
+
+class Artist
+  attr_accessor :name, :artist 
+
+  def initialize
+    @name = name
+
+  end
+
+
+
+end
